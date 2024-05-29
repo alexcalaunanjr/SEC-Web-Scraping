@@ -31,7 +31,7 @@ Before running the code, make sure to have the necessary extensions needed for V
 
 #### 1. Install Jupyter extension on VSC:
 From the left hand side tabs, click extension (icon with 4 boxes), search 'jupyter', and install. This will allow you to open/run jupyter notebook files (.ipynb) on VSC.
-<p>
+<p align="center">
  <img class='Extension' src='./image.png' width=300 style="display: block; margin: 0 auto;">
 </p>
 
