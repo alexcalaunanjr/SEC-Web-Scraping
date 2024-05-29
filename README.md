@@ -34,7 +34,7 @@ From the left hand side tabs, click extension (icon with 4 boxes), search 'jupyt
 <p align="center">
  <img class='Extension' src='./image.png' width=300 style="display: block; margin: 0 auto;">
 </p>
-
+<br>
 
 #### 2. Prepare the Environments needed for the scrapping:
 ![alt text](IMG_7527.gif)
