@@ -2,7 +2,7 @@
 ### SEC Sustainability Disclosure Search
 This code scrapes data from various companies and analyzes the correlation of a company's use of various words in their report against how sustainable they really are.
 
-## TOOLS USED / PREREQUISITS
+## TOOLS USED / PREREQUISITES
 - <a href="https://docs.anaconda.com/free/miniconda/miniconda-install/">Miniconda</a> (Conda) for python environments with the necessary libraries/packages
 - <a href="https://code.visualstudio.com/download">Visual Studio Code</a> (IDE to write/run code)
 - Selenium (Library for webscrapping)
