@@ -31,13 +31,17 @@ Before running the code, make sure to have the necessary extensions needed for V
 
 #### 1. Install Jupyter extension on VSC:
 From the left hand side tabs, click extension (icon with 4 boxes), search 'jupyter', and install. This will allow you to open/run jupyter notebook files (.ipynb) on VSC.
-<p>
- <img class='Extension' src='./image.png' width=300 style="display: block; margin: 0 auto;">
+<p align='center'>
+ <img class='Extension' src='./readme/image.png' width=300 style="display: block; margin: 0 auto;">
 </p>
 
 
 #### 2. Prepare the Environments needed for the scrapping:
-![alt text](IMG_7527.gif)
+<p align='center'>
+ <video autoplay>
+  <source src="./readme/IMG_7527.MOV" type="video/mov">
+</video>
+</p>
 
 1) Open scraper.ipynb
 2) On the top right, select the environemnt
