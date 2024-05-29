@@ -1,11 +1,11 @@
-# Sustainability Report Scrapping
+# Sustainability Report Scraping
 ### SEC Sustainability Disclosure Search
 This code scrapes data from various companies and analyzes the correlation of a company's use of various words in their report against how sustainable they really are.
 
 ## TOOLS USED / PREREQUISITES
 - <a href="https://docs.anaconda.com/free/miniconda/miniconda-install/">Miniconda</a> (Conda) for python environments with the necessary libraries/packages
 - <a href="https://code.visualstudio.com/download">Visual Studio Code</a> (IDE to write/run code)
-- Selenium (Library for webscrapping)
+- Selenium (Library for web automation; to be used for webscraping)
 - Basic python libraries
 
 
@@ -26,7 +26,7 @@ Once that's done, follow the instructions to activate the environment:\
 While in the directory of this project (with requirements.txt), run the following command to install all the necessary libraries:\
 `pip install -r requirements.txt`
 
-### 3. Running the Selenium webscrapping bot using Visual Studio Code (VSC)
+### 3. Running the Selenium webscraping bot using Visual Studio Code (VSC)
 Before running the code, make sure to have the necessary extensions needed for Visual Studio Code by doing the following:
 
 #### 1. Install Jupyter extension on VSC:
@@ -37,7 +37,7 @@ From the left hand side tabs, click extension (icon with 4 boxes), search 'jupyt
 </p>
 <br>
 
-#### 2. Prepare the Environments needed for the scrapping:
+#### 2. Prepare the Environments needed for the scraping:
 <p align='center'>
  <img src='./IMG_7527.gif'>
 </p>
