@@ -39,9 +39,7 @@ From the left hand side tabs, click extension (icon with 4 boxes), search 'jupyt
 
 #### 2. Prepare the Environments needed for the scrapping:
 <p align='center'>
- <video autoplay>
-  <source src="./readme/IMG_7527.MOV" type="video/mov">
-</video>
+ <img src='./IMG_7527.gif'>
 </p>
 
 1) Open scraper.ipynb
