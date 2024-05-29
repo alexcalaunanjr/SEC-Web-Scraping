@@ -16,7 +16,7 @@ With miniconda installed, in your cmd/terminal, cd to the path you want to creat
 Once done, create python environment using the following command:\
 `conda create --prefix=[NameOfEnvironemnt] python=3.11.9`
 
-Replace `[NameOfEnvironemnt]` to the environment name you want, for example:
+Replace `[NameOfEnvironemnt]` to the environment name you want, for example:\
 `conda create --prefix=FYP python=3.11.8`
 
 Once that's done, follow the instructions to activate the environment:\
