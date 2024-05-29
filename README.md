@@ -27,7 +27,7 @@ While in the directory of this project (with requirements.txt), run the followin
 `pip install -r requirements.txt`
 
 ### 3. Running the Selenium webscrapping bot using Visual Studio Code (VSC)
-Before running the code, make sure to have the necessary extensions needed for Visual Studio Code by doing the following:\
+Before running the code, make sure to have the necessary extensions needed for Visual Studio Code by doing the following:
 
 #### 1. Install Jupyter extension on VSC:
 From the left hand side tabs, click extension (icon with 4 boxes), search 'jupyter', and install. This will allow you to open/run jupyter notebook files (.ipynb) on VSC.
