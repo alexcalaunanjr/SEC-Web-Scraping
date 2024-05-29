@@ -17,7 +17,7 @@ Once done, create python environment using the following command:\
 `conda create --prefix=[NameOfEnvironemnt] python=3.11.9`
 
 Replace `[NameOfEnvironemnt]` to the environment name you want, for example:\
-`conda create --prefix=FYP python=3.11.8`
+`conda create --prefix=FYP python=3.11.9`
 
 Once that's done, follow the instructions to activate the environment:\
 `conda activate /path/to/your/env`
